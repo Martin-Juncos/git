@@ -1,6 +1,6 @@
 # Git y Control de Versiones
 
-[Git](https://git-scm.com/)
+### [Git](https://git-scm.com/)
 
 ## Introducción a Git y su importancia en el control de versiones
 
