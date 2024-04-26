@@ -1,5 +1,7 @@
 # Git y Control de Versiones
 
+Git
+
 ## Introducción a Git y su importancia en el control de versiones
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear y gestionar los cambios en el código fuente de un proyecto de software. Es esencial para entender cómo ha evolucionado un proyecto a lo largo del tiempo y para permitir la colaboración entre múltiples desarrolladores. Puedes leer más sobre Git en la documentación oficial.
