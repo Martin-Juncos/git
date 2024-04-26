@@ -18,6 +18,7 @@ Para crear un repositorio Git local, primero debes instalar Git en tu máquina. 
 
 ```bash
 git init
+```
 
 ### [Git](https://git-scm.com/)
 
